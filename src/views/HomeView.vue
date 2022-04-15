@@ -1,5 +1,5 @@
 <script setup lang="ts"></script>
 
 <template>
-  <h1>Matthew</h1>
+  <h1 class="text-3xl font-bold underline">Matthew</h1>
 </template>
