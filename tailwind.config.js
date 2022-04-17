@@ -4,6 +4,7 @@ module.exports = {
     extend: {
       colors: {
         "lb-logo": "#0177e6",
+        "main-bg": "#ebf5ff",
       },
     },
     container: {

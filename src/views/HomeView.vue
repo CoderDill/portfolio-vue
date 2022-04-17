@@ -1,5 +1,6 @@
 <template>
-  <h1 class="container">Home</h1>
+  <h1 class="text-center">Home</h1>
+  <CodePic />
 </template>
 
 <script setup lang="ts"></script>
